@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 my name is gaurav.
 my name is gattu.
 my name is Dev.
 my name is Abhishek. 
 
 
+=======
+my name is gaurav.
+>>>>>>> 74247b223e24fa65ec4534a8242a1978eacf56db
